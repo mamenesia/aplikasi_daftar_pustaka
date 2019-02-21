@@ -2,6 +2,10 @@
   margin-top: 50px;
 }
 
+.bg-dark {
+  background: #f3f3f3;
+}
+
 h1,h2,h3,h4 {
   text-align: center;
 }
@@ -42,3 +46,17 @@ h1,h2,h3,h4 {
 #book-form {
   margin: 0 5rem;
 }
+
+.footer {
+  width:80%;
+  margin: auto;
+}
+
+.footer p{
+  text-align: center;
+  height: 40px;
+  justify-content: center;
+  align-items: center;
+  margin-top:50px;
+  padding-top: 20px;
+ }
